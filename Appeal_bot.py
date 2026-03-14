@@ -23,7 +23,7 @@ logging.getLogger("httpx").setLevel(logging.ERROR)
 logging.getLogger("telegram").setLevel(logging.ERROR)
 
 # ================= CONFIG =================
-BOT_TOKEN = "8595786501:AAEufg71y0PZ_zf8_NQfzHEBSxfUaJIECfk"
+BOT_TOKEN = "8710843355:AAH24k6WIFCxHqr5_GBDCydYzA9kKN0b_nI"
 
 ADMIN_IDS = [6587658540, 7691071175]
 
