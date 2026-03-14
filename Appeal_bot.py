@@ -25,11 +25,11 @@ logging.getLogger("telegram").setLevel(logging.ERROR)
 # ================= CONFIG =================
 BOT_TOKEN = "8595786501:AAEufg71y0PZ_zf8_NQfzHEBSxfUaJIECfk"
 
-ADMIN_IDS = [6587658540, 7691071175, 8552395485]
+ADMIN_IDS = [6587658540, 7691071175]
 
 GROUPS = {
     "market": {"name": "📢 Market Forums", "id": -1003692774580},
-    "chat": {"name": "💬 Chat GC", "id": -1003382668169}
+    "chat": {"name": "💬 Forums Chat", "id": -1003730637965}
 }
 
 SELECT_GROUP, WRITE_REASON = range(2)
