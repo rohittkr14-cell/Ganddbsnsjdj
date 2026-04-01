@@ -31,7 +31,7 @@ logging.getLogger("telegram").setLevel(logging.ERROR)
 # ================= CONFIG =================
 BOT_TOKEN = "8360710143:AAEeJFu2KJ1iF27-5FKrQBQz0TKvx4RA8TA"
 
-ADMIN_IDS = [6587658540, 7691071175]
+ADMIN_IDS = [6587658540, 7691071175, 8618533476, 7103862644]
 
 GROUPS = {
     "chatting": {
